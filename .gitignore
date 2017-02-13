@@ -19,3 +19,5 @@ project/plugins/project/
 .classpath
 .project
 .settings/
+target/
+local.sbt
