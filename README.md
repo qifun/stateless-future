@@ -269,6 +269,17 @@ Put these lines in your `build.sbt` if you use [Sbt](http://www.scala-sbt.org/):
 
 Clone [stateless-future-test](https://github.com/Atry/stateless-future-test) and run the test cases to check these limitations.
 
+## Community
+
+Discussion around Stateless Future is currently happening in the
+[Gitter channel](https://gitter.im/Atry/stateless-future) as well as on Github
+issue and PR pages.
+
+People are expected to follow the
+[Typelevel Code of Conduct](http://typelevel.org/conduct.html) when
+discussing Cats on the Github page, Gitter channel, or other
+venues.
+
 ## Links
 * [The API documentation](https://oss.sonatype.org/service/local/repositories/releases/archive/com/qifun/stateless-future_2.11/0.4.0/stateless-future_2.11-0.4.0-javadoc.jar/!/index.html)
 * [Utilities](https://github.com/Atry/stateless-future-util)
