@@ -1,7 +1,7 @@
 Stateless Future
 ================
 
-<div align="right"><a href="https://travis-ci.org/qifun/stateless-future"><img alt="Build Status" src="https://travis-ci.org/qifun/stateless-future.png?branch=master"/></a></div>
+<div align="right"><a href="https://travis-ci.org/Atry/stateless-future"><img alt="Build Status" src="https://travis-ci.org/Atry/stateless-future.png?branch=master"/></a></div>
 
 **Stateless Future** is a set of Domain-specific language for asynchronous programming, in the pure functional flavor.
 
