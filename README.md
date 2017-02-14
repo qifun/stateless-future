@@ -2,8 +2,7 @@ Stateless Future
 ================
 
 [![Join the chat at https://gitter.im/Atry/stateless-future](https://badges.gitter.im/Atry/stateless-future.svg)](https://gitter.im/Atry/stateless-future?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-<div align="right"><a href="https://travis-ci.org/Atry/stateless-future"><img alt="Build Status" src="https://travis-ci.org/Atry/stateless-future.png?branch=master"/></a></div>
+[![Build Status](https://travis-ci.org/Atry/stateless-future.svg?branch=master)](https://travis-ci.org/Atry/stateless-future)
 
 **Stateless Future** is a set of Domain-specific language for asynchronous programming, in the pure functional flavor.
 
