@@ -1,7 +1,8 @@
 Stateless Future
 ================
 
-<div align="right"><a href="https://travis-ci.org/qifun/stateless-future"><img alt="Build Status" src="https://travis-ci.org/qifun/stateless-future.png?branch=master"/></a></div>
+[![Join the chat at https://gitter.im/Atry/stateless-future](https://badges.gitter.im/Atry/stateless-future.svg)](https://gitter.im/Atry/stateless-future?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/Atry/stateless-future.svg?branch=master)](https://travis-ci.org/Atry/stateless-future)
 
 **Stateless Future** is a set of Domain-specific language for asynchronous programming, in the pure functional flavor.
 
@@ -268,6 +269,17 @@ Put these lines in your `build.sbt` if you use [Sbt](http://www.scala-sbt.org/):
  * [Some complex existential types](https://github.com/Atry/stateless-future-test/blob/2.10.x/test/src/test/scala/com/qifun/statelessFuture/test/run/uncheckedBounds/UncheckedBoundsSpec.scala) may cause compiler errors, , due to [scala issue 8500](https://issues.scala-lang.org/browse/SI-8500).
 
 Clone [stateless-future-test](https://github.com/Atry/stateless-future-test) and run the test cases to check these limitations.
+
+## Community
+
+Discussion around Stateless Future is currently happening in the
+[Gitter channel](https://gitter.im/Atry/stateless-future) as well as on Github
+issue and PR pages.
+
+People are expected to follow the
+[Typelevel Code of Conduct](http://typelevel.org/conduct.html) when
+discussing Cats on the Github page, Gitter channel, or other
+venues.
 
 ## Links
 * [The API documentation](https://oss.sonatype.org/service/local/repositories/releases/archive/com/qifun/stateless-future_2.11/0.4.0/stateless-future_2.11-0.4.0-javadoc.jar/!/index.html)
